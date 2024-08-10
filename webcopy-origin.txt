@@ -1,0 +1,20 @@
+Uri: https://fonts.googleapis.com/css?family=Open+Sans:300,400&display=swap
+File Name: C:\Downloaded Web Sites\www.turkishmods.com\css-1
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/opensans/v40/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsiH0B4gaVc.ttf
+File Name: C:\Downloaded Web Sites\www.turkishmods.com\s\opensans\v40\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsiH0B4gaVc-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v40/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0B4gaVc.ttf
+File Name: C:\Downloaded Web Sites\www.turkishmods.com\s\opensans\v40\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0B4gaVc-1.ttf
+Content Type: font/ttf
+
+Uri: https://www.turkishmods.com/
+File Name: C:\Downloaded Web Sites\www.turkishmods.com\index-1.htm
+Content Type: text/html
+
+Uri: https://www.turkishmods.com/assets/img/maintenance_bg.jpg
+File Name: C:\Downloaded Web Sites\www.turkishmods.com\assets\img\maintenance_bg-1.jpg
+Content Type: image/jpeg
+
